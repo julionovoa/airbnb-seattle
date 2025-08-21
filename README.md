@@ -16,4 +16,3 @@ This is the list of Python libraries used:
 ## Results
 The inclusion of a geospatial variable called 'distance', which stands for the closest distance in meters from an Airbnb unit to a cultural site (e.g. art gallery, concert hall), slightly improved the model accuracy. This results can be used to increase awareness of the importance of geospatial variables in some modeling scenarios.
 
-Blog post: https://blog.julionovoa.com/how-to-add-geospatial-context-to-a-predictive-model
